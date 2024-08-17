@@ -1,4 +1,4 @@
-# Vrinda-Store-2022-Sales-Anlysis
+# Vrinda-Store-2022-Sales-Analysis
 
 *Objective*
 
